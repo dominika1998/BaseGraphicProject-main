@@ -1,11 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\out",
+    "\\out\\build",
+    "\\out\\build\\x64-Debug (default)",
     "\\src",
     "\\src\\Exercises",
     "\\src\\Exercises\\Triangle",
     "\\src\\Exercises\\Triangle\\shaders"
   ],
-  "SelectedNode": "\\src\\Exercises\\Triangle\\app.cpp",
+  "SelectedNode": "\\out\\build\\x64-Debug (default)\\CMakeCache.txt",
   "PreviewInSolutionExplorer": false
 }
